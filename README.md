@@ -3,10 +3,7 @@
 ## Description
 **NOTE**: This is **NOT** my original work. 
 
-The intention of this repo is to port the original [waldemarfm/sass-svg-uri](https://github.com/waldemarfm/sass-svg-uri) to be supported in the Dart SASS implementation without it outputting any warnings and errors. The original repo is 'no longer being maintained' in that its version 1.0 did exactly what was on the tin and had no dependencies to justify additional maintainance.
-
-### A Note on versioning.
-Since this will live a life on its own, we will version the original release on 1.0.0.
+The intention of this repo is to port the original [waldemarfm/sass-svg-uri](https://github.com/waldemarfm/sass-svg-uri) to be supported in the Dart SASS implementation without it outputting any warnings and errors. The original repo is 'no longer being maintained' in that its version 1.0 did exactly what was on the tin and had no dependencies to justify additional maintenance.
 
 ### So what if I need to support SASS implementations before Dart SASS?
 If you are after support for node-sass or SASS implementations **_before_** the Dart SASS implementation, please follow the link over here for the original [waldemarfm/sass-svg-uri](https://github.com/waldemarfm/sass-svg-uri) repository and the original [sass-svg-uri](https://www.npmjs.com/package/sass-svg-uri) npm package.
