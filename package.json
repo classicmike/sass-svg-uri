@@ -1,14 +1,14 @@
 {
-  "name": "sass-svg-uri",
+  "name": "@classicmike/sass-svg-uri",
   "version": "1.0.0",
-  "description": "Sass function to encode SVG as a data uri without it being in base64",
+  "description": "Sass function to encode SVG as a data uri without it being in base64. This package is a fork of the original sass-svg-to-uri package by waldemarfm. It replaces support original SASS implementation for the new SASS implementation",
   "main": "_svg-uri.scss",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waldemarfm/sass-svg-uri.git"
+    "url": "git+https://github.com/classicmike/sass-svg-uri.git"
   },
   "keywords": [
     "sass",
@@ -17,9 +17,12 @@
     "uri"
   ],
   "author": "Waldemar Figueroa",
+  "contributors": [{
+    "name": "Michael Tran"
+  }],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/waldemarfm/sass-svg-uri/issues"
+    "url": "https://github.com/classicmike/sass-svg-uri/issues"
   },
-  "homepage": "https://github.com/waldemarfm/sass-svg-uri#readme"
+  "homepage": "https://github.com/classicmike/sass-svg-uri#readme"
 }
