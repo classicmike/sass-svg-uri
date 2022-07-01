@@ -19,7 +19,7 @@ This is just a simple module with [Jakob Eriksen's function](http://codepen.io/j
 Just import the file and use the function, no dependencies.
 
 ```scss
-@import "sass-svg-uri/svg-uri";
+@import "@classicmike/sass-svg-uri/svg-uri";
 
 .icon {
     background-image: svg-uri('<svg xmlns="http://www.w3.org/2000/svg"> ... </svg>');
